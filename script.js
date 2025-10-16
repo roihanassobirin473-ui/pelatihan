@@ -1,4 +1,4 @@
-const tombolsapa = documen.getElementById
+const tombolsapa= documen.getElementById
 
 
 tombolsapa.addEventlistener('click',function(){
