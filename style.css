@@ -1,6 +1,6 @@
 body {
   background-color: #FFFFE0; /* Warna kuning cerah */
-fort-family: arial, sans-serif; /* jenis huruf yang bersih dan mudah di baca */
+font-family: arial, sans-serif; /* jenis huruf yang bersih dan mudah di baca */
 color: #191970; /* warna teks utama (biru gelap) */
 }
 
@@ -10,7 +10,7 @@ color: #191970; /* warna teks utama (biru gelap) */
 padding: 20px;
   background-color: white;
   border-radius: 15px; /*membuat sudut menjadi melengkung */
-  box-shadow: 0 4px 8px rgba(0,0,0,0,1); /* efek bayangan */
+  box-shadow: 0 4px 8px rgba(0,0,0,1); /* efek bayangan */
 text-align: center; /*menengah semua teks di dalam kartu */
 }
 
@@ -18,4 +18,5 @@ text-align: center; /*menengah semua teks di dalam kartu */
 .kartu-profil img {
   width: 150px;
   border-radius: 50%;
+
 }
